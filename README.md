@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Clean bootstrap Create-React-App
+No test files and other unnecessary from the create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
